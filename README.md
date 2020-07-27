@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSpoon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OSpoon&show_icons=true)](https://github.com/OSpoon/OSpoon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSpoon&hide=c,c%2B%2B&)](https://github.com/OSpoon/OSpoon)
 
 <!--
 **OSpoon/OSpoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
