@@ -5,7 +5,7 @@
 ---
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=OSpoon&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-#### 🚀 Navigation
+#### 🌱 Navigation
 - [IT200导航](http://it200.cn/)
 - [掘金](https://juejin.cn/user/3966693685871694)
 
