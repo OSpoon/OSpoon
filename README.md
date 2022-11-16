@@ -21,17 +21,32 @@
 
 #### 🚀 近期笔记
 
-<a target="_blank" href="https://it200.cn/">
-  <img src="https://github-readme-recent-article.vercel.app/blog/0">
-</a>
-
-<a target="_blank" href="https://it200.cn/">
-  <img src="https://github-readme-recent-article.vercel.app/blog/1">
-</a>
-
-<a target="_blank" href="https://it200.cn/">
-  <img src="https://github-readme-recent-article.vercel.app/blog/2">
-</a>
+<table style="margin-left: auto; margin-right: auto;">
+    <tr>
+        <td>
+            <a target="_blank" href="https://it200.cn/">
+              <img src="https://github-readme-recent-article.vercel.app/blog/0">
+            </a>
+        </td>
+        <td>
+            <a target="_blank" href="https://it200.cn/">
+              <img src="https://github-readme-recent-article.vercel.app/blog/1">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="https://it200.cn/">
+              <img src="https://github-readme-recent-article.vercel.app/blog/2">
+            </a>
+        </td>
+        <td>
+            <a target="_blank" href="https://it200.cn/">
+              <img src="https://github-readme-recent-article.vercel.app/blog/3">
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
 
