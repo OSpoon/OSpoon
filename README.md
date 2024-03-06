@@ -1,3 +1,9 @@
+👋 Hi，我是小鑫同学(PetitXin1994)，在北京工作的一位前端开发工程师。我擅长使用 [Vue.js](https://cn.vuejs.org/)、 [Angular](https://angular.cn/)、 [Typescript](https://www.typescriptlang.org/) 和 [Node.js](https://www.nodejs.com.cn/) 构建 [Web](https://developer.mozilla.org/zh-CN/docs/Web) 应用程序和网站。同时我也是一位乐于分享的程序员，我经常利用休息时间写写技术文章、分享自己经验及学习心得。
+
+近两年主要利用 [MicroApp](https://micro-zoe.github.io/micro-app/) 微前端框架维护和迭代公司的项目，保证历史的 [Angular](https://angular.cn/) 工程逐步向 [Vue.js](https://cn.vuejs.org/) 的平稳迁移。
+
+<!--
+
 ### **👋 Hi, I'm 小鑫同学**
 
 - ⚡InfoQ签约作者
@@ -26,7 +32,7 @@
 ### **🐇技术交流&解答**
 
 <img width="250px" style="margin-left: 30px;" src="https://it200.cn/wx_code.png">
-
+ -->
 <!-- ### 👋 Hi, I'm 小鑫同学
 
 ---
