@@ -1,11 +1,5 @@
-<p align="center">
- <img width="128px" src="./202402270952616.png">
-</p>
 
-<h2 align="center">
- 👋 Hi, Nice to meet you ~
-</h2>
-
+## 👋 Hi, Nice to meet you ~
 我是小鑫同学，在北京工作的一位前端开发工程师。我擅长使用 [Vue.js](https://cn.vuejs.org/)、 [Angular](https://angular.cn/)、 [Typescript](https://www.typescriptlang.org/) 和 [Node.js](https://www.nodejs.com.cn/) 构建 [Web](https://developer.mozilla.org/zh-CN/docs/Web) 应用程序和网站。同时我也是一位乐于分享的程序员，我经常利用休息时间写写技术文章、分享自己经验及学习心得。
 
 近两年主要利用 [MicroApp](https://micro-zoe.github.io/micro-app/) 微前端框架维护和迭代公司的项目，保证历史的 [Angular](https://angular.cn/) 工程逐步向 [Vue.js](https://cn.vuejs.org/) 的平稳迁移。
@@ -13,6 +7,13 @@
 ###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
 
 <!--
+<p align="center">
+ <img width="128px" src="./202402270952616.png">
+</p>
+
+<h2 align="center">
+ 👋 Hi, Nice to meet you ~
+</h2>
 
 ### **👋 Hi, I'm 小鑫同学**
 
