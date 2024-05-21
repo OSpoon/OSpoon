@@ -4,9 +4,11 @@
 
 近两年主要利用 [MicroApp](https://micro-zoe.github.io/micro-app/) 微前端框架维护和迭代公司的项目，保证历史的 [Angular](https://angular.cn/) 工程逐步向 [Vue.js](https://cn.vuejs.org/) 的平稳迁移。
 
-###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
+## WeChat QRCode：
 
 <img width="50%" src="https://github.com/OSpoon/OSpoon/assets/10126623/45ed6463-5be2-40f3-9d42-ac2fac2cae7c">
+
+###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
 
 <!--
 <p align="center">
