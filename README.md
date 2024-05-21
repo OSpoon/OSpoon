@@ -6,6 +6,8 @@
 
 ###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
 
+<img width="50%" src="https://github.com/OSpoon/OSpoon/assets/10126623/45ed6463-5be2-40f3-9d42-ac2fac2cae7c">
+
 <!--
 <p align="center">
  <img width="128px" src="./202402270952616.png">
