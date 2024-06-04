@@ -8,7 +8,7 @@
 
 <img width="50%" src="https://github.com/OSpoon/OSpoon/assets/10126623/45ed6463-5be2-40f3-9d42-ac2fac2cae7c"> -->
 
-## 🧋 A cup of COCO
+## 🧋 Coco Sponsor
 
 [请我喝一杯咖啡，支持我更好的创作](https://afdian.net/a/ospoon)
 
