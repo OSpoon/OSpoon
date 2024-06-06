@@ -4,13 +4,11 @@
 
 近两年主要利用 [MicroApp](https://micro-zoe.github.io/micro-app/) 微前端框架维护和迭代公司的项目，保证历史的 [Angular](https://angular.cn/) 工程逐步向 [Vue.js](https://cn.vuejs.org/) 的平稳迁移。
 
-<!-- ## WeChat QRCode：
+## 👬🏻 Make friends
 
-<img width="50%" src="https://github.com/OSpoon/OSpoon/assets/10126623/45ed6463-5be2-40f3-9d42-ac2fac2cae7c"> -->
-
-## 🧋 Coco Sponsor
-
-[请我喝一杯咖啡，支持我更好的创作](https://afdian.net/a/ospoon)
+|☎️ WeChat QRCode|🧋 Coco Sponsor|
+|-----|-----|
+|[扫码即可添加我为微信好友](https://github.com/OSpoon/OSpoon/assets/10126623/ed843556-4391-4a2d-999b-fba099c92035)|[请我喝一杯咖啡，支持我更好的创作](https://afdian.net/a/ospoon)|
 
 ###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
 
