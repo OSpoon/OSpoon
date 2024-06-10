@@ -8,7 +8,9 @@
 
 |☎️ WeChat QRCode|🧋 Coco Sponsor|
 |-----|-----|
-|[扫码即可添加我为微信好友](https://github.com/OSpoon/OSpoon/assets/10126623/ed843556-4391-4a2d-999b-fba099c92035)|[请我喝一杯咖啡，支持我更好的创作](https://afdian.net/a/ospoon)|
+|<p align="center"><img width="200px" src="https://github.com/OSpoon/OSpoon/assets/10126623/7812dbf5-05e1-4529-8a88-4b4c307732cf"></p>|<p align="center"><img width="200px" src="https://github.com/OSpoon/OSpoon/assets/10126623/f7feef7a-8943-4e93-b4d1-566e1ebc8f70"></p>|
+
+<!--|[扫码即可添加我为微信好友](https://github.com/OSpoon/OSpoon/assets/10126623/ed843556-4391-4a2d-999b-fba099c92035)|[请我喝一杯咖啡，支持我更好的创作](https://afdian.net/a/ospoon)|-->
 
 ###### 座右铭: 😇 所有付出都将是沉淀，所有美好终会如期而至
 
