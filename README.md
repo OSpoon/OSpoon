@@ -2,7 +2,7 @@
   <samp>
     <a href="https://ospoon.cn">me</a> .
     <a href="https://juejin.cn/user/3966693685871694/posts">articles</a> .
-    <a href="https://use.ospoon.cn">use</a> .
+    <a href="https://ospoon.cn/use.html">use</a> .
     <a href="https://doc.ospoon.cn">documents</a>
   </samp>
 </p>
