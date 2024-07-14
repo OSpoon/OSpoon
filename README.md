@@ -1,9 +1,7 @@
 <p align="center">  
   <samp>
     <a href="https://ospoon.cn">me</a> .
-    <a href="https://ospoon.cn/projects">projects</a> .
-    <a href="https://ospoon.cn/articles">articles</a> .
-    <a href="https://ospoon.cn/tools">tools</a> .
+    <a href="https://juejin.cn/user/3966693685871694/posts">articles</a> .
     <a href="https://use.ospoon.cn">use</a> .
     <a href="https://doc.ospoon.cn">documents</a>
   </samp>
